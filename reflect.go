@@ -10,7 +10,7 @@ type Employee struct {
 	Id   int
 }
 
-func main() {
+func main20() {
 	var e = Employee{
 		Name: "one",
 		Id:   1,
