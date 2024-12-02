@@ -74,7 +74,7 @@ func (dll *Dbll) print() {
 
 }
 
-func main() {
+func main23() {
 
 	var dll Dbll
 
